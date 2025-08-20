@@ -13,7 +13,3 @@ if cuisine:
     for item in menu_items:
         st.write("-",item)
 
-
-# to run streamlit
-# streamlit run "/Users/ankitkumar/VS code/python/RestaurantNameGenerator/main.py"
-        
