@@ -4,6 +4,7 @@ A Streamlit + LangChain app that generates unique restaurant names and creative 
 
 ## 🚀 How to Run
 
+```bash
 1. Clone the repo:
    
    git clone https://github.com/YOUR_USERNAME/RestaurantNameGenerator.git
@@ -18,4 +19,4 @@ A Streamlit + LangChain app that generates unique restaurant names and creative 
 4. Run the Streamlit app:
 
     streamlit run main.py
-   
+   ```
