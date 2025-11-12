@@ -1,5 +1,4 @@
 streamlit
-langchain
-langchain-groq
-groq
+langchain==0.1.16
+langchain-groq==0.1.5
 python-dotenv
